@@ -8,7 +8,7 @@ Immunology and Cancer Research
 🔬 Current Focus:
 My current endeavors revolve around bioinformatics, exploring genomic, transcriptomic, metabolomic, and immune profiles in patients with lung cancer-derived brain metastasis. I strive to uncover novel biomarkers with potential clinical applications.
 
-Let's forge connections and collaborate at the intersection of Genetics, Bioinformatics, and Cancer Research.
-📧 vsouza@bccrc.ca
+🤝 Let's Connect!
+📧 vsouza@bccrc.ca | ❌ @Souza_pVanessa | 🔗 LinkedIn
 
-Connect with me on Twitter: @Souza_pVanessa
+Looking forward to collaborating at the intersection of Genetics, Bioinformatics, and Cancer Research!
