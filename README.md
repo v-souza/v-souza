@@ -1,14 +1,18 @@
-👋 Greetings! I'm Vanessa, a Ph.D. in Genetics dedicated to leveraging scientific research for societal advancement.
+# 👋 Greetings!  
 
-💼 Expertise:
-Big Data Analysis | R/RStudio | Linux/BASH | Python | Machine Learning
-DNA and RNA Sequencing | Genetics & Genomics | Spatial Multi-omics
-Immunology and Cancer Research
+I'm **Vanessa**, a Ph.D. in Genetics dedicated to leveraging scientific research for societal advancement.  
 
-🔬 Current Focus:
-My current endeavors revolve around bioinformatics, exploring genomic, transcriptomic, metabolomic, and immune profiles in patients with lung cancer-derived brain metastasis. I strive to uncover novel biomarkers with potential clinical applications.
+## 💼 Expertise  
+- Big Data Analysis | R/RStudio | Linux/Shell | Python | Machine Learning  
+- DNA & RNA Sequencing | Genetics & Genomics | Spatial Multi-omics  
+- Immunology & Cancer Research  
 
-🤝 Let's Connect!
-📧 vsouza@bccrc.ca | ❌ @Souza_pVanessa | 🔗 LinkedIn
+## 🔬 Current Focus  
+I specialize in **cancer biology and the tumor microenvironment**, with a particular focus on **lung cancer, metastasis, and respiratory diseases such as COPD**. My research involves **genomic, transcriptomic, metabolomic, and immune profiling** to uncover novel **biomarkers** with potential clinical applications.  
 
-Looking forward to collaborating at the intersection of Genetics, Bioinformatics, and Cancer Research!
+## 🤝 Let's Connect!  
+📧 Email: vsouza@bccrc.ca  
+🐦 [X/Twitter: @Souza_pVanessa](https://twitter.com/Souza_pVanessa)  
+🔗 [LinkedIn](https://www.linkedin.com/in/vanessa-g-p-souza-2a0370258/)  
+
+Looking forward to collaborating at the intersection of **Genetics, Bioinformatics, and Cancer Research!** 🚀  
