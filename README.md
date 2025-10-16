@@ -22,8 +22,8 @@ I have participated in and co-organized programs aimed at teaching genomics and 
 
 ## 🤝 Let's Connect!  
 📧 Email: vsouza@bccrc.ca  
-📚 [Google Scholar: Vanessa G. P. Souza](https://scholar.google.com/citations?hl=en&user=0q1e1usAAAAJ&view_op=list_works&sortby=pubdate)
-🐦 [X/Twitter: @Souza_pVanessa](https://twitter.com/Souza_pVanessa)  
+📚 [Google Scholar: Vanessa G. P. Souza](https://scholar.google.com/citations?hl=en&user=0q1e1usAAAAJ&view_op=list_works&sortby=pubdate/)
+🐦 [X/Twitter: @Souza_pVanessa](https://twitter.com/Souza_pVanessa/)  
 🔗 [LinkedIn](https://www.linkedin.com/in/vanessa-g-p-souza-2a0370258/)  
 
 Looking forward to collaborating at the intersection of **Genetics, Bioinformatics, and Cancer Research!** 🚀  
