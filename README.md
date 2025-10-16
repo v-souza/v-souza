@@ -10,12 +10,12 @@ I'm **Vanessa**, a Ph.D. in Genetics and Postdoctoral Fellow at *BC Cancer Resea
 ## 🔬 Current Focus  
 I work at the intersection of **genomics, data science, and translational oncology**, developing computational pipelines to analyze DNA/RNA sequencing, perform variant calling, and integrate multi-omics data (bulk, single-cell, and spatial). My goal is to translate molecular insights into precision biomarkers for early detection and personalized therapy.  
 
-🏆 Awards & Recognition (selected)
+## 🏆 Awards & Recognition (selected)
 - POSIT 2025 Award – presented by POSIT (formerly RStudio), the organization behind R and RStudio, recognizing excellence in computational reproducibility and open-source contributions.
 - BC Cancer Rising Stars Fellowship (First Year) – a highly competitive program recognizing outstanding postdoctoral fellows across BC Cancer.
 - Canadian Institutes of Health Research - Travel Award (2025) – one of only 21 recipients nationwide, supporting Canadian researchers presenting internationally.
 
-🌱 Outreach & Teaching
+## 🌱 Outreach & Teaching
 Beyond research, I’m passionate about equitable access to bioinformatics education.
 I have participated in and co-organized programs aimed at teaching genomics and data analysis to underserved students in Brazil, fostering capacity building in regions with limited access to computational biology training.
 
