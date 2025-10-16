@@ -1,6 +1,7 @@
 # 👋 Greetings!  
 
 I'm **Vanessa**, a Ph.D. in Genetics and Postdoctoral Fellow at *BC Cancer Research Institute (Vancouver, Canada)*. I have 7+ years of experience in NGS data analysis, from read alignment and variant calling to annotation and ACMG/AMP-based interpretation. I develop bioinformatics pipelines in R, Python, and Bash, integrating multi-omics data to uncover molecular mechanisms of lung cancer and drive precision medicine innovations.
+Author of 25+ peer-reviewed publications.
 
 ## 💼 Expertise  
 - Big Data Analysis | R/RStudio | Linux/Shell | Python | Machine Learning | Data Management
@@ -21,6 +22,7 @@ I have participated in and co-organized programs aimed at teaching genomics and 
 
 ## 🤝 Let's Connect!  
 📧 Email: vsouza@bccrc.ca  
+📚 [Google Scholar: Vanessa G. P. Souza](https://scholar.google.com/citations?hl=en&user=0q1e1usAAAAJ&view_op=list_works&sortby=pubdate)
 🐦 [X/Twitter: @Souza_pVanessa](https://twitter.com/Souza_pVanessa)  
 🔗 [LinkedIn](https://www.linkedin.com/in/vanessa-g-p-souza-2a0370258/)  
 
