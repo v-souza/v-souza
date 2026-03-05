@@ -1,7 +1,9 @@
 # 👋 Greetings!  
 
-I'm **Vanessa**, a Ph.D. in Genetics and Postdoctoral Fellow at *BC Cancer Research Institute (Vancouver, Canada)*. I have 7+ years of experience in NGS data analysis, from read alignment and variant calling to annotation and ACMG/AMP-based interpretation. I develop bioinformatics pipelines in R, Python, and Bash, integrating multi-omics data to uncover molecular mechanisms of lung cancer and drive precision medicine innovations.
-Author of 25+ peer-reviewed publications.
+I'm *Vanessa*, a Geneticist and Bioinformatician with a Master's, Ph.D., and Postdoctoral training at BC Cancer Research Institute (Vancouver, Canada) — one of Canada's leading cancer research institutions.
+With 10+ years of experience in NGS data analysis, I specialize in end-to-end genomic workflows: from read alignment and variant calling to annotation and clinical interpretation (ACMG/AMP). I build reproducible bioinformatics pipelines in R, Python, and Bash, and integrate multi-omics data (bulk RNA-seq, miRNA-seq, single-cell RNA-seq) to uncover molecular mechanisms of lung cancer and advance precision medicine.
+Currently contributing to the Pan-Canadian Early Detection of Lung Cancer Study — a landmark multi-center initiative spanning 8 research sites across Canada.
+Author of 35+ peer-reviewed publications | 40+ invited talks at national and international conferences | Research experience across 5 countries
 
 ## 💼 Expertise  
 - Big Data Analysis | R/RStudio | Linux/Shell | Python | Machine Learning | Data Management
