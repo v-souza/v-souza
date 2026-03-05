@@ -1,10 +1,11 @@
 # 👋 Greetings!  
 
-I'm *Vanessa*, a Geneticist and Bioinformatician with a Master's, Ph.D., and Postdoctoral training at BC Cancer Research Institute (Vancouver, Canada).
+I'm *Vanessa*, a Geneticist and Bioinformatician with a Master's and Ph.D. in Genetics. 
+Currently a Postdoctoral Fellow at BC Cancer Research Institute (Vancouver, Canada).
 
-With 10+ years of experience in NGS data analysis, I specialize in end-to-end genomic workflows: from read alignment and variant calling to annotation and clinical interpretation (ACMG/AMP). I build reproducible bioinformatics pipelines in R, Python, and Bash, and integrate multi-omics data (bulk RNA-seq, miRNA-seq, single-cell RNA-seq) to uncover molecular mechanisms of lung cancer and advance precision medicine.
+I have 10+ years of experience in NGS data analysis. I specialize in end-to-end genomic workflows: from read alignment and variant calling to annotation and clinical interpretation (ACMG/AMP). I build reproducible bioinformatics pipelines in R, Python, and Bash, and integrate multi-omics data (bulk RNA-seq, miRNA-seq, single-cell RNA-seq) to uncover molecular mechanisms of lung cancer and advance precision medicine.
 
-Currently contributing to the Pan-Canadian Early Detection of Lung Cancer Study (a  multi-center initiative spanning 8 research sites across Canada).
+Contributing to the Pan-Canadian Early Detection of Lung Cancer Study (a multi-center initiative spanning 8 research sites across Canada).
 
 Author of 35+ peer-reviewed publications | 40+ invited talks at national and international conferences | Research experience across 5 countries
 
@@ -18,12 +19,13 @@ I work at the intersection of **genomics, data science, and translational oncolo
 
 ## 🏆 Awards & Recognition (selected)
 - POSIT 2025 Award – presented by POSIT (formerly RStudio), the organization behind R and RStudio, recognizing excellence in computational reproducibility and open-source contributions.
-- BC Cancer Rising Stars Fellowship (First Year) – a highly competitive program recognizing outstanding postdoctoral fellows across BC Cancer.
-- Canadian Institutes of Health Research - Travel Award (2025) – one of only 21 recipients nationwide, supporting Canadian researchers presenting internationally.
+- BC Cancer Rising Stars Fellowship (First Place Overall) – a highly competitive program recognizing outstanding postdoctoral fellows across BC Cancer.
+- Canadian Institutes of Health Research - Travel Award (2025 & 2026) – one of only 21 recipients nationwide, supporting Canadian researchers presenting internationally.
+- Selected Early Career Investigator, Society for Neuro-Oncology / ASCO (2023)
 
 ## 🌱 Outreach & Teaching
 Beyond research, I’m passionate about equitable access to bioinformatics education.
-I have participated in and co-organized programs aimed at teaching genomics and data analysis to underserved students in Brazil, fostering capacity building in regions with limited access to computational biology training.
+I have participated in and co-organized programs to teach genomics and data analysis to underserved students in Brazil, fostering capacity building in regions with limited access to computational biology training.
 
 ## 🤝 Let's Connect!  
 📧 **Email:** vsouza@bccrc.ca  
